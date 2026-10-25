@@ -23,8 +23,7 @@ miniProject/
 ├── emp.py
 ├── storage.py
 ├── main.py
-├── data.json
-└── __init__.py
+└── data.json
 ```
 
 ## How to Run
